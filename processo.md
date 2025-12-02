@@ -1,4 +1,11 @@
-#  Processo: Comparacao_Minuta_vs_Dados
+# 📄 Mapeamento de Processo –  Comparacao_Minuta_vs_Dados
+
+---
+## Fluxograma - Visão Macro do Processo
+
+<img width="2666" height="618" alt="image" src="https://github.com/user-attachments/assets/8cbcd147-fb4e-4c92-898f-3380fe5b593a" />
+
+---
 
 ## Visão Geral do Processo
 Este processo tem como objetivo realizar a comparação entre dados capturados em fontes oficiais internas e informações disponíveis em documentos auxiliares e minutas de contrato.  
